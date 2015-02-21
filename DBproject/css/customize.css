@@ -1,0 +1,54 @@
+.navbar-default{
+    background-color: #0099CC !important;
+    
+}
+
+.navbar-default a{
+    color: #ffffff !important;    
+}
+
+.btn-primary{
+    background-color: #0099CC !important;
+}
+
+.row-main{
+    margin-top:10%;
+}
+.panel-body{
+    padding-top: 1% !important;
+}
+.panel-table{
+    padding-top: 1% !important;
+    text-align: center;
+}
+thead{
+    font-size: large;
+}
+.form-group .signup{
+    padding-top: 3% !important;
+}
+
+.modal{
+    margin-top: 10% !important;
+}
+
+.navbar .nav > li.dropdown.open.active > a:hover, 
+.navbar .nav > li.dropdown.open > a
+{
+    background-color: #0099CC; 
+    color:#FFFFFF;
+    border-color: #0099CC;
+}
+.post{
+    margin-top: 5%;
+}
+.pic{
+    margin-top: 4%;
+}
+.input{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+.submit{
+    margin-top: 2%;
+}
